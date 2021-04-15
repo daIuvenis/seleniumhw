@@ -24,7 +24,6 @@ public class singleton {
     }
 
     public static void quit(){
-        System.out.println("quitting the browser");
         driver.quit();
     }
 }
